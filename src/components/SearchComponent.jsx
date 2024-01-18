@@ -1,0 +1,1 @@
+//This component will be a seach bar that searches through the products upon user input
